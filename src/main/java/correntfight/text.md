@@ -1,3 +1,3 @@
 ### 实战并发编程
 
-[第一章](tree/master/)
+[第一章](https://github.com/SmileLSJ/IJavaUC/tree/master/src/main/java/correntfight/S001/lesson.md)

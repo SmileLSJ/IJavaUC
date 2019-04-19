@@ -1,1 +1,1 @@
-* [实战并发编程](https://github.com/SmileLSJ/IJavaUC/tree/master/src/main/java/correntfight/S001/lesson.md)
+* [实战并发编程](https://github.com/SmileLSJ/IJavaUC/tree/master/src/main/java/correntfight/text.md)
